@@ -6564,6 +6564,39 @@
             "Uncommon Standard Frame L": 2
         }
     },
+    "Advanced Gravity-Inverted Container L": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 3746,
+        "outputQuantity": 1,
+        "time": 518400,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line L",
+        "input": {
+            "Uncommon Screw": 432,
+            "Advanced Hydraulics": 250,
+            "Advanced Mobile Panel L": 2,
+            "Advanced Anti-Gravity Core": 128,
+            "Advanced Standard Frame L": 2
+        }
+    },
+    "Rare Gravity-Inverted Container L": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 3746,
+        "outputQuantity": 1,
+        "time": 518400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line L",
+        "input": {
+            "Uncommon Screw": 216,
+            "Advanced Screw": 216,
+            "Rare Hydraulics": 250,
+            "Rare Mobile Panel L": 2,
+            "Rare Anti-Gravity Core": 128,
+            "Rare Standard Frame L": 2
+        }
+    },
     "Container XL": {
         "tier": 1,
         "type": "Industry & Infrastructure Element",
