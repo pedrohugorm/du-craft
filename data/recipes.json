@@ -2531,6 +2531,19 @@
             "Advanced Power System": 50
         }
     },
+    "Basic Antenna XL": {
+        "tier": 3,
+        "type": "Functional Part",
+        "volume": 0,
+        "outputQuantity": 1,
+        "time": 4860,
+        "byproducts": {},
+        "industry": "Electronics Industry M",
+        "input": {
+            "Al-Fe Alloy": 2401,
+            "Basic Screw": 625
+        }
+    },
     "Advanced Antenna XL": {
         "tier": 3,
         "type": "Functional Part",
