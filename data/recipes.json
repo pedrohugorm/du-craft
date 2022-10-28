@@ -2367,6 +2367,27 @@
             "Advanced Quantum Core": 1
         }
     },
+    "Rare Quantum Barrier": {
+        "tier": 4,
+        "type": "Exceptional Part",
+        "volume": 25,
+        "outputQuantity": 1,
+        "time": 3750,
+        "byproducts": {},
+        "industry": "Advanced Electronics Industry M",
+        "input": {
+            "Silumin": 5,
+            "Basic LED": 5,
+            "Basic Quantum Core": 2,
+            "Duralumin": 5,
+            "Uncommon LED": 5,
+            "Uncommon Quantum Core": 1,
+            "Al-Li Alloy": 5,
+            "Advanced Quantum Core": 1,
+            "Sc-Al Alloy": 5,
+            "Rare Quantum Core": 1
+        }
+    },
     "Advanced Antimatter Core": {
         "tier": 3,
         "type": "Exceptional Part",
