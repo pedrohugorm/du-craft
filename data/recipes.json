@@ -11833,20 +11833,37 @@
             "Advanced Reinforced Frame S": 1
         }
     },
-    "Shield Generator S": {
+    "Rare Capacitor Shield Generator S": {
+        "tier": 4,
+        "type": "Combat Element",
+        "volume": 950,
+        "outputQuantity": 1,
+        "time": 16200,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line S",
+        "input": {
+            "Uncommon Component": 3,
+            "Advanced Component": 3,
+            "Rare Magnet": 5,
+            "Rare Laser Chamber S": 1,
+            "Rare Quantum Barrier": 4,
+            "Rare Reinforced Frame S": 1
+        }
+    },
+    "Advanced Shield Generator S": {
         "tier": 3,
         "type": "Combat Element",
         "volume": 950,
         "outputQuantity": 1,
         "time": 21600,
         "byproducts": {},
-        "industry": "Assembly Line M",
+        "industry": "Uncommon Assembly Line S",
         "input": {
-            "Uncommon Component": 36,
-            "Advanced Magnet": 25,
-            "Advanced Laser Chamber M": 1,
-            "Advanced Quantum Barrier": 16,
-            "Advanced Reinforced Frame M": 1
+            "Uncommon Component": 6,
+            "Advanced Magnet": 5,
+            "Advanced Laser Chamber S": 1,
+            "Advanced Quantum Barrier": 4,
+            "Advanced Reinforced Frame S": 1
         }
     },
     "Shield Generator M": {
