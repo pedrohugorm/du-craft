@@ -11838,14 +11838,47 @@
             "Exotic Standard Frame L": 1
         }
     },
-    "Shield Generator XS": {
+    "Advanced Shield Generator XS": {
         "tier": 3,
         "type": "Combat Element",
         "volume": 210,
         "outputQuantity": 1,
         "time": 5400,
         "byproducts": {},
-        "industry": "Assembly Line S",
+        "industry": "Uncommon Assembly Line XS",
+        "input": {
+            "Uncommon Component": 6,
+            "Advanced Magnet": 5,
+            "Advanced Laser Chamber S": 1,
+            "Advanced Quantum Barrier": 4,
+            "Advanced Reinforced Frame S": 1
+        }
+    },
+    "Rare Capacitor Shield Generator XS": {
+        "tier": 4,
+        "type": "Combat Element",
+        "volume": 210,
+        "outputQuantity": 1,
+        "time": 4050,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line XS",
+        "input": {
+            "Uncommon Component": 1,
+            "Advanced Component": 1,
+            "Rare Magnet": 1,
+            "Rare Laser Chamber XS": 1,
+            "Rare Quantum Barrier": 1,
+            "Rare Reinforced Frame XS": 1
+        }
+    },
+    "Advanced Shield Generator S": {
+        "tier": 3,
+        "type": "Combat Element",
+        "volume": 950,
+        "outputQuantity": 1,
+        "time": 21600,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line S",
         "input": {
             "Uncommon Component": 6,
             "Advanced Magnet": 5,
@@ -11871,30 +11904,14 @@
             "Rare Reinforced Frame S": 1
         }
     },
-    "Advanced Shield Generator S": {
-        "tier": 3,
-        "type": "Combat Element",
-        "volume": 950,
-        "outputQuantity": 1,
-        "time": 21600,
-        "byproducts": {},
-        "industry": "Uncommon Assembly Line S",
-        "input": {
-            "Uncommon Component": 6,
-            "Advanced Magnet": 5,
-            "Advanced Laser Chamber S": 1,
-            "Advanced Quantum Barrier": 4,
-            "Advanced Reinforced Frame S": 1
-        }
-    },
-    "Shield Generator M": {
+    "Advanced Shield Generator M": {
         "tier": 3,
         "type": "Combat Element",
         "volume": 4500,
         "outputQuantity": 1,
         "time": 86400,
         "byproducts": {},
-        "industry": "Assembly Line L",
+        "industry": "Uncommon Assembly Line M",
         "input": {
             "Uncommon Component": 216,
             "Advanced Magnet": 125,
@@ -11903,20 +11920,54 @@
             "Advanced Reinforced Frame L": 1
         }
     },
-    "Shield Generator L": {
+    "Rare Capacitor Shield Generator M": {
+        "tier": 4,
+        "type": "Combat Element",
+        "volume": 4500,
+        "outputQuantity": 1,
+        "time": 64800,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line M",
+        "input": {
+            "Uncommon Component": 18,
+            "Advanced Component": 18,
+            "Rare Magnet": 25,
+            "Rare Laser Chamber M": 1,
+            "Rare Quantum Barrier": 16,
+            "Rare Reinforced Frame M": 1
+        }
+    },
+    "Advanced Shield Generator L": {
         "tier": 3,
         "type": "Combat Element",
         "volume": 22700,
         "outputQuantity": 1,
         "time": 345600,
         "byproducts": {},
-        "industry": "Assembly Line XL",
+        "industry": "Uncommon Assembly Line L",
         "input": {
             "Uncommon Component": 1296,
             "Advanced Magnet": 625,
             "Advanced Laser Chamber XL": 1,
             "Advanced Quantum Barrier": 256,
             "Advanced Reinforced Frame XL": 1
+        }
+    },
+    "Rare Capacitor Shield Generator L": {
+        "tier": 4,
+        "type": "Combat Element",
+        "volume": 4500,
+        "outputQuantity": 1,
+        "time": 259200,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line L",
+        "input": {
+            "Uncommon Component": 108,
+            "Advanced Component": 108,
+            "Rare Magnet": 125,
+            "Rare Laser Chamber L": 1,
+            "Rare Quantum Barrier": 64,
+            "Rare Reinforced Frame L": 1
         }
     },
     "Info Button S": {

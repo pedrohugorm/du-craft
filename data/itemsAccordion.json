@@ -553,11 +553,14 @@
           {
             "name": "Shield Generators",
             "data": [
-              "Shield Generator XS",
+              "Advanced Shield Generator XS",
+              "Rare Capacitor Shield Generator XS",
               "Advanced Shield Generator S",
               "Rare Capacitor Shield Generator S",
-              "Shield Generator M",
-              "Shield Generator L"
+              "Advanced Shield Generator M",
+              "Rare Capacitor Shield Generator M",
+              "Advanced Shield Generator L",
+              "Rare Capacitor Shield Generator L"
             ]
           },
           "Transponder",
